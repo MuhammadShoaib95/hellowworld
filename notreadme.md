@@ -1,2 +1,4 @@
 # shoaib
 ## bukc
+** bold **
+* italic*
